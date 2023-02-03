@@ -10,3 +10,5 @@ In the html file, I just had a div with a class of container.
 The css had the following: 
 
 <img width="616" alt="glass-css" src="https://user-images.githubusercontent.com/52170550/216488312-fe09821a-9415-4958-bad5-a3ce8a742466.png">
+
+Basicaly, to acheive the glass look all you need is a backdrop filter blur on a div. ...That's it.
